@@ -18,7 +18,7 @@ public class Commandes {
     private Double montant;
     @Transient //cela signifié ignorer ce attribut
     private Produits produits;
-    private Long produitId;
+    private Long    produitId;
 
 
 }

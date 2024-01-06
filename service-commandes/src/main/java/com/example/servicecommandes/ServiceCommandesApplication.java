@@ -35,8 +35,12 @@ public class ServiceCommandesApplication {
 
                 commandeRepository.save(commandes1);
 
+
+
+
             });
         };
     }
 
 }
+
